@@ -7,6 +7,8 @@ console.log('move this commit');
 console.log('hello  commit 555555  commit');
 console.log('hello  commit 555 __ 2');
 console.log('hello  commit 555 __ 1');
+console.log('hello  commit 555 second');
+console.log('hello  commit 555 second');
 
 console.log('hello secondCCCC');
 
